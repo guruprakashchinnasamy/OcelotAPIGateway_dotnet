@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "8SHIzXk5vToT24QZO7xBE5l9kBKR35ogpysni3cXoa8MYXSHoLnMhiQp3T/SeNaGMqCzW5PucGCx+z7jNj1hbQ==",
+  "success": true,
+  "projectFilePath": "D:\\Learn Here\\2023\\.Net Core Cloned\\CodeMazeGuides\\aspnetcore-webapi\\ApiGatewayWithOcelot\\Writer.Api\\Writer.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Guruprakash C\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Guruprakash C\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Guruprakash C\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Guruprakash C\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Guruprakash C\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Guruprakash C\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
