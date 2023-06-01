@@ -1,4 +1,4 @@
-# # .NET 7 API Gateway with Ocelot
+# .NET 7 API Gateway with Ocelot
 **Ocelot is an Open Source .NET Core-based API Gateway** designed specifically for microservices architectures that require centralised points of entry into their system. It is lightweight, fast, and scalable, and among other things, it supports routing and authentication.
 
 **Ocelot Features**
